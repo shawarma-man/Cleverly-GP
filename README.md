@@ -208,10 +208,10 @@ This Project Was done under the supervision of Dr. Ashraf Armoush and a React Fr
 [forks-url]: https://github.com/shawarma-man/Cleverly-GP/network/members
 [stars-shield]: https://img.shields.io/github/stars/shawarma-man/Cleverly-GP.svg?style=for-the-badge
 [stars-url]: https://github.com/shawarma-man/Cleverly-GP/stargazers
-[issues-shield]: https://img.shields.io/github/issues/shawarma-man/Cleverly.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/shawarma-man/Cleverly-GP.svg?style=for-the-badge
 [issues-url]: https://github.com/shawarma-man/Cleverly-GP/issues
 [license-shield]: https://img.shields.io/github/license/shawarma-man/Cleverly-GP.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
+[license-url]: https://github.com/shawarma-man/Cleverly-GP/blob/5b52fd9e3bd51f5903979d5a02cfbca037dc6516/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: www.linkedin.com/in/ahmed-jalamneh-shawarma
 [product-screenshot]: images/screenshot.png
