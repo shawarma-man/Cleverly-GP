@@ -1,10 +1,5 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 
-<style>
-.image-padding {
-  padding: 0px;
-}
-</style>
 
 <!-- PROJECT SHIELDS -->
 <!--
