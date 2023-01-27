@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cleverly-372120",
+  "private_key_id": "69762213ac5685543f000d39fa87cde042a33561",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC6npp8ItnEbTnE\nluQ2vk14mEA57uM4bc0/TPGaH9j1B1Hsd5sFFpKxWy5u5Ag6pfbh8xPqX8pd1cCs\n9psxFDgDIWRiWeOhLIhDZOGkOZGbEV2f75PHs6S1k62sc6oNvLOKpNwWAKU6hU9e\nM5pr0n47Msm6txmxMqm0jEmu+3Df5M81tZAA7+u6FtvyP0vI4aXfRZTGmv5/rDAh\ncGdgj0BjUXRHNW399nbU8P2tBy6sLxyeeLOxeYR5+qgDRSZHG60H9aL6bWhVHsKl\n5PHtF2D1lnAhrkPzJ7BVM62tkF5EqsGF5Uf5XCthqycK6Cjuw2L+7U+cUMloJb1M\niOlIISCrAgMBAAECggEAKkE1K3xcoHw2w0uDGt4V/oNCr5tmeWVrPrT2U3Z4kmp4\n4zjlsc49osjJh7Q8JMNlVh3K2Zuc34hBmygvVXqFgDf0WcyOnPTPWasi6CNc06an\n80m0xVfoqHBqt4xs6bVbVb4kUxsMTmbW5LZ8dYNwr4i9YniI6bVV9Zp6KJOoKBls\nySns/bhPEYNWjGLK2oOkPxgbp3kKVTxOvmLkhW0DpB7Cyzav2Iq3aaasW3ObxrWn\nQAp141V1NIiKZfYpeoIjRh8uVu173mR3ho0STsb7QYkU7Lq3XJFDcuW9235uPgqR\nyFUusNYhh1lxSj0sXSetdgVscgO4b2wG0mvczm1GkQKBgQDggNSmDBsv2gILk0e4\nmXxRI+0Vb/WYZ37PuPZkRj3hRl1rKvi4tl9voMmOEy3VWI50rrdCPdJETGcNbOiB\nsHt/K2mzaezZGIR68TPKIA9aZ6TB8JuaH0HpQUE8gAi+z52SJlPEnWlom2cVkC0b\nbIzMhzohmWYyIeAcYy44bicWwwKBgQDUzSgpS0HspjqYK1OTKaALCVo1riuALKlQ\na8K/WW7e+zx6P4+EEs6QBY4rpNJgERAEbc1zoQl0wwQwxe7K+ro7sWjAWCS7Q/sM\nDHWEr/lpqEgjgedpVeEejygH0RtSBdlzKE+21pymjzc9N+OZ96m7r1s4yUZukzCg\n/XVFoFY/+QKBgQCYP0X2hWc6gEG6z9pnmc7wx8hULWUEQcuB2xFc1zXHvAxGTRH3\nUdZOwV9udhsy/6c8AfBNf9dEcfvA4waaTLCzgSFhhogUgcf2B/TzMeK3kGnvC9i6\nIFB2esZe3QURQYK+Rjewsn91bU3vFaNBYc/qNBp8BqeDf+2X0rrZkfn4OQKBgHbG\n3DfQTcetMN9mr4tgnHgMjFGSGa29P/QncdgkLwI+8Q67E3wAk1NIBobNxK7iVzJh\np1927zRA9cHTeOnK8NAIwhM6H6Z211VuTtn07x3OVBWdmHDvAmxwM0PJr5oksa7Z\nPUUsnNtK7OY6n8t8tTyRMDWOAsYNWgNB9Ycba4jhAoGAQOJ1w4mq+hRpQoaLp6H6\n5Sz9Suuzwrh+jAAeG01Urwtsq4fJFElRfCAN/0mx24Dswka+b447splh1T5u6Oxw\ngwQYdcNw3CcBw3e9RuC+qtFHv08l6ZQOWmUbi5HevLmvfCrhp5fEbIMyM4SAw+tT\nfzPDWjoEtoF6pizqgzbpxDQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "storage-object-admin@cleverly-372120.iam.gserviceaccount.com",
+  "client_id": "107401949577657364277",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/storage-object-admin%40cleverly-372120.iam.gserviceaccount.com"
+}
