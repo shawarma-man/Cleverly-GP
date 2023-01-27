@@ -23,7 +23,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="Cleverly_(4).png" alt="Logo" width="120" height="120">
+    <img src="assets/images/Cleverly_(4).png" alt="Logo" width="120" height="120">
   </a>
 
 <h3 align="center">project_title</h3>
