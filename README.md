@@ -1,6 +1,10 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 
-
+<style>
+.image-padding {
+  padding: 0px;
+}
+</style>
 
 <!-- PROJECT SHIELDS -->
 <!--
@@ -63,8 +67,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<div style="display: flex;">
+  <img class="image-padding" src="assets/images/HomePage%20(1).png" alt="image1" width="240" height="533">
+  <img class="image-padding" src="assets/images/Login%20(1).png" alt="image2" width="240" height="533">
+  <img class="image-padding" src="assets/images/CourseVideosTab%20(1).png" alt="image3" width="240" height="533">
+  <img class="image-padding" src="assets/images/VideoPage%20(1).png" alt="image4" width="240" height="533">
+</div>
 
+<br></br>
 Cleverly is an online education platform, it was designed to be as simple and user-friendly as possible and appealing to the potential users.
 
 The Back-end or the server is built using nodejs as the server environment and mongodb as the database, the code is fully written by Typescript as it offers a lot more features than Javascript, The code follows the REST princibles and Several packages were used to add additional security to the API like, [zod](https://github.com/colinhacks/zod) for input validation, [rate-limiter](https://www.npmjs.com/package/express-rate-limit) to protect against DDos, Brute Force attacks..etc, and [Helmet](https://github.com/helmetjs/helmet) that protects against several common attack vectors like click-jacking, XSS and DDos.
@@ -130,7 +140,10 @@ This Project Was done under the supervision of Dr. Ashraf Armoush and a React Fr
 [license-url]: https://github.com/shawarma-man/Cleverly-GP/blob/5b52fd9e3bd51f5903979d5a02cfbca037dc6516/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: www.linkedin.com/in/ahmed-jalamneh-shawarma
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: assets/images/HomePage%20(1).png
+[product-screenshot2]: assets/images/Login%20(1).png
+[product-screenshot3]: assets/images/CourseVideosTab%20(1).png
+[product-screenshot4]: assets/images/VideoPage%20(1).png
 [mongodb-url]: https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
 [tsc-url]: https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white
 [nodejs-url]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
